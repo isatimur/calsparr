@@ -1,3 +1,2 @@
 # calsparr
-architecture
-CalSPARR.drawio
+architecture [CalSPARR.drawio](/CalSPARR.drawio)
